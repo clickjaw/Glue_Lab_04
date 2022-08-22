@@ -1,0 +1,16 @@
+.formBody{
+    width: flex;
+}
+
+.headerToast{
+display: grid;
+justify-content: right;
+font-size: 12px;
+height: 30px;
+}
+
+.headerBody{
+    display:grid;
+    justify-content: center;
+    font-size: 24px;
+}
